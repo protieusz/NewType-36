@@ -4,6 +4,7 @@ NewType-36, a nowt36 variant with an integrated 36mm trackball, individual 36 RG
 # Description
 NewType-36, a modified [nowt36](https://github.com/tamago324/nowt36) that was originally designed by tamago324.
 The following designs were modified by me and I got the blessing from tamago324 for the modifications:
+
 -PCB designed from ground up using EasyEDA to include a integrated PMW3360 trackball sensor.
 -MCU changed from Pro Micron to Waveshare RP2040 Zero that is to be smd soldered onto the keyboard pcb.
 -Heavily modifed case by Sato to have an integrated trackball holder module with an integrated 5mm thick switch plate.
