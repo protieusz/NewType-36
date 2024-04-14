@@ -17,7 +17,7 @@ The following designs were modified by me and I got the blessing from tamago324 
 
 # Status
 Currently the JLCPCB printed 5 PCBs are in transit and the case is already printed.
-QMK source code complied into firmware and both will be uploaded.
+QMK source code complied into firmware and both of them were uploaded.
 
 # Renders
 
