@@ -25,6 +25,7 @@ QMK source code complied into firmware and both of them were uploaded.
 
 # Full Production Pictures
 
+![IMG_1961](https://github.com/protieusz/NewType-36/assets/118025702/c81e7a2a-58ae-414d-8d67-a44a835ff0e0)
 ![IMG_1959](https://github.com/protieusz/NewType-36/assets/118025702/b0fe35a7-ab63-4e5f-8568-6b16326298b8)
 ![IMG_1958](https://github.com/protieusz/NewType-36/assets/118025702/5568afd0-66f1-439a-9c6a-5167f39327fa)
 ![IMG_1957](https://github.com/protieusz/NewType-36/assets/118025702/9e717565-cc99-4eb3-a65c-b22fc11e62cc)
