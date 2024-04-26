@@ -18,8 +18,34 @@ The following designs were modified by me and I got the blessing from tamago324 
 -QMK source code was borrowed from bally by aki27 and the mod done was implement Nova's key matrix layout into [bally](https://github.com/aki27kbd/vial-qmk/tree/vial/keyboards/aki27/bally)'s code.
 
 # Status
+PCBs received on Apr 26, 2024.  Assemble, soldered and build by me.
+
 Currently the JLCPCB printed 5 PCBs are in transit and the case is already printed.
 QMK source code complied into firmware and both of them were uploaded.
+
+# Full Production Pictures
+
+![IMG_1959](https://github.com/protieusz/NewType-36/assets/118025702/b0fe35a7-ab63-4e5f-8568-6b16326298b8)
+![IMG_1958](https://github.com/protieusz/NewType-36/assets/118025702/5568afd0-66f1-439a-9c6a-5167f39327fa)
+![IMG_1957](https://github.com/protieusz/NewType-36/assets/118025702/9e717565-cc99-4eb3-a65c-b22fc11e62cc)
+![IMG_1956](https://github.com/protieusz/NewType-36/assets/118025702/6c0cea33-f51e-4a1c-b35e-fed9f49d6111)
+![IMG_1955](https://github.com/protieusz/NewType-36/assets/118025702/f61b9c1c-2131-460e-8a65-d04afe2fc0e3)
+![IMG_1954](https://github.com/protieusz/NewType-36/assets/118025702/64f33588-1e09-4446-a985-1f96aabd5f63)
+![IMG_1953](https://github.com/protieusz/NewType-36/assets/118025702/3393b62a-30ec-4097-bbd8-a4debc9c39b4)
+![IMG_1952](https://github.com/protieusz/NewType-36/assets/118025702/9a456fba-6024-4a24-9ca0-2a0d37605fce)
+![IMG_1951](https://github.com/protieusz/NewType-36/assets/118025702/7e100fd5-630c-4662-9a71-9f5154115c4c)
+![IMG_1950](https://github.com/protieusz/NewType-36/assets/118025702/e6643644-7677-4004-bc50-fec1096a49b9)
+![IMG_1949](https://github.com/protieusz/NewType-36/assets/118025702/d1a9163f-ce06-422d-93f8-9b149348af64)
+![IMG_1948](https://github.com/protieusz/NewType-36/assets/118025702/42d0abc4-9b39-41a6-bf95-912f4154a1e0)
+![IMG_1947](https://github.com/protieusz/NewType-36/assets/118025702/a94ce3fb-ef17-461f-83b7-53348e12ef88)
+![IMG_1946](https://github.com/protieusz/NewType-36/assets/118025702/e40e41a1-7201-4af1-9e6a-53d24cde0296)
+![IMG_1945](https://github.com/protieusz/NewType-36/assets/118025702/df50c14f-965c-4c8b-b69b-c1cb36ff268d)
+![IMG_1944](https://github.com/protieusz/NewType-36/assets/118025702/59aba207-ccbe-4d63-ad97-d88d6eadc870)
+![IMG_1943](https://github.com/protieusz/NewType-36/assets/118025702/ec7631de-164f-42c6-b209-109b8703ee41)
+![IMG_1942](https://github.com/protieusz/NewType-36/assets/118025702/c17d6a04-bfa6-4d85-84db-e9f2323248d4)
+![IMG_1941](https://github.com/protieusz/NewType-36/assets/118025702/26da7a67-04aa-464f-bfdb-9c0c86647dea)
+![IMG_1940](https://github.com/protieusz/NewType-36/assets/118025702/6b3e50d1-bf04-48e5-a12d-f7a345163d45)
+
 
 # Renders
 
