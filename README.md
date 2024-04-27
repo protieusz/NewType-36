@@ -1,6 +1,9 @@
 # NewType-36
 NewType-36, a nowt36 variant with an integrated 25mm trackball, individual 36 RGBs & powered by WS RP2040 Zero
 
+# Featured On KBD News
+https://kbd.news/NewType-36-2358.html 
+
 # Description
 NewType-36, a modified [nowt36](https://github.com/tamago324/nowt36) that was originally designed by tamago324.
 The following designs were modified by me and I got the blessing from tamago324 for the modifications:
