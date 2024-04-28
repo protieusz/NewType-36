@@ -18,7 +18,7 @@ The following designs were modified by me and I got the blessing from tamago324 
 
 -The case consists of 2 pieces that is secured by having M2 screws in the hot inserts that are melted into the case.
 
--QMK source code was borrowed from bally by aki27 and the mod done was implement Nova's key matrix layout into [bally](https://github.com/aki27kbd/vial-qmk/tree/vial/keyboards/aki27/bally)'s code.
+-QMK source code was borrowed from bally by aki27 and the mod done was implement NewType-36's key matrix layout into [bally](https://github.com/aki27kbd/vial-qmk/tree/vial/keyboards/aki27/bally)'s code.
 
 # Status
 PCBs received on Apr 26, 2024.  Assemble, soldered and build by me.
